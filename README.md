@@ -28,7 +28,7 @@ Each folder represents a specific task topic, and includes:
 
 ## 🧑‍🏫 Instructor
 
-**Name:** Emad Mostafa
+**Name:** Emad Mostafa  
 **Role:** Volunteer Instructor at DSC Cairo University  
 **LinkedIn:** www.linkedin.com/in/emadmostafa-
 
