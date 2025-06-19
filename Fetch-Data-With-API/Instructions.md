@@ -1,6 +1,6 @@
 # 🎯 Task: GitHub User Search App
 
-![Design preview for the GitHub user search](.design/preview.jpg)
+![Design preview for the GitHub user search](design/preview.jpg)
 
 ## 👋 Welcome!
 
